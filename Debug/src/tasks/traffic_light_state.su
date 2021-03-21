@@ -1,0 +1,5 @@
+traffic_light_state.c:31:6:Traffic_Light_State_Task	40	static
+traffic_light_state.c:72:6:prvUpdateLightDurations	24	static
+traffic_light_state.c:83:6:RedLightTimerCallback	24	static
+traffic_light_state.c:89:6:AmberLightTimerCallback	24	static
+traffic_light_state.c:95:6:GreenLightTimerCallback	32	static

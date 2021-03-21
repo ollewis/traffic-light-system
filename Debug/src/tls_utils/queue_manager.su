@@ -1,0 +1,4 @@
+queue_manager.c:10:6:queueInit	4	static
+queue_manager.c:30:14:getTrafficFlowQueue	4	static
+queue_manager.c:36:14:getTrafficLightQueue	4	static
+queue_manager.c:42:14:getGeneratedTrafficQueue	4	static
